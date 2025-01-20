@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- 定义仓库的元数据 -->
-    <remote name="origin" fetch="https://github.com/nippon1218/"/>
+    <remote name="origin" fetch="https://github.com/nippon1218" />
+    <default remote="origin" revision="main" />
 
-    <!-- 第一个 Git 仓库 -->
+    <!-- 定义项目 -->
     <project name="mcmd" path="mcmd" revision="main" />
-
-    <!-- 第二个 Git 仓库 -->
     <project name="mtest" path="mtest" revision="main" />
+
 </manifest>
