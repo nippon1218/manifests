@@ -7,6 +7,6 @@
     <!-- 定义项目 -->
     <project name="mcmd" path="mcmd" />
     <project name="mtest" path="mtest" />
-    <project name="pytorhc-practice" path="pytorhc-practice" />
+    <project name="pytorch-practice" path="pytorch-practice" />
 
 </manifest>
