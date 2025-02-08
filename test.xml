@@ -5,7 +5,8 @@
     <default remote="origin" revision="main" />
 
     <!-- 定义项目 -->
-    <project name="mcmd" path="mcmd" revision="main" />
-    <project name="mtest" path="mtest" revision="main" />
+    <project name="mcmd" path="mcmd" />
+    <project name="mtest" path="mtest" />
+    <project name="pytorhc-practice" path="pytorhc-practice" />
 
 </manifest>
